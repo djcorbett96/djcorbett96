@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm DJ. A product manager at Yext by day, self-taught frontend developer by night.
+
+
 <!--
 **djcorbett96/djcorbett96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
