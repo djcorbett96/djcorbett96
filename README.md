@@ -2,7 +2,7 @@
 
 I'm DJ. 
 
-Product manager at Yext by day, self-taught frontend developer by night.
+Product manager at Yext by day, self-taught developer by night.
 
 When I'm not producting or coding, I'm likely reading fantasy, cooking, playing soccer or losing in online chess.
 
