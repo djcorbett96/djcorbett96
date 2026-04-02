@@ -2,9 +2,9 @@
 
 I'm DJ. 
 
-Product manager by day, self-taught developer by night.
+I like to tinker and build delightful software.
 
-When I'm not producting or coding, I'm likely reading fantasy, cooking, playing soccer or losing in online chess.
+When I'm not locked in a cave with Claude Code, I'm likely reading fantasy, cooking, playing soccer or losing in online chess.
 
 
 <!--
